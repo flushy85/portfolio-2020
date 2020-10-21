@@ -35,7 +35,8 @@ export const projectsData = [
     title: 'MMA Match App',
     info:
       'I love mixed martial arts and wanted an app that allowed users to compare fighters.  As the title implies this app allows users to add fighters to their favorites where they can check their stats and "match" two fighters against eachother.',
-    info2: 'Built using',
+    info2:
+      'Tech Stack: MongoDB, NodeJS, ExpressJS, ReactJS with React-Bootstrap for styling and D3 for charts.',
     url: 'https://mma-match-app.herokuapp.com/',
     repo: 'https://github.com/flushy85/mma-match-app-backend',
   },
@@ -45,7 +46,7 @@ export const projectsData = [
     title: 'Pomo To-do List',
     info:
       'Combining two productivity apps into one this app allows users to manage their time more efficiently. Users are able to add tasks to a todo-list and plan their work schedule using the classic pomodoro method.',
-    info2: '',
+    info2: 'Tech Stack: ReactJS with Material-UI for styling',
     url: 'https://pomo-todo.netlify.app/',
     repo: 'https://github.com/flushy85/pomo-todo',
   },
@@ -55,7 +56,7 @@ export const projectsData = [
     title: 'Good Pics (WIP)',
     info:
       'Inspired by the website Good-Reads, this app allows users to rate their favourite films and create ranked lists of films to share.',
-    info2: '',
+    info2: 'Tech Stack: MySQL, NodeJS, ExpressJS, ReactJS with Tailwind for styling.',
     url: '',
     repo: 'https://github.com/flushy85/Top-Picks',
   },
