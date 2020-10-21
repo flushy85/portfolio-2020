@@ -24,7 +24,7 @@ export const aboutData = {
     'At present I am looking for work as a junior developer, I have come a long way and hope that I can continue to develop and grow in this exciting industry.',
   paragraphThree:
     'When I am not spending my time writing code I love to keep fit  and keep up to date with all the developments in blockchain technology.',
-  resume: 'https://www.gregburdick.online/Greg Burdick CV 2020.pdf',
+  resume: 'https://www.gregburdick.online/documents/Greg Burdick CV 2020.pdf',
 };
 
 // PROJECTS DATA
